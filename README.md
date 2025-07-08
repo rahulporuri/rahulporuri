@@ -33,3 +33,9 @@ on various topics like Python Programming, FOSS, FOSS Policy, and Tech Policy in
 His wife, [Dr. Preeti Saryan](https://www.linkedin.com/in/dr-preeti-saryan-92574438/),
 co-founded the [Saryan Vigyan Foundation](https://www.saryanfoundation.org/). He and his wife argue
 about two things - how to run an organization and how to raise their son, Luffy.
+
+### Pictures
+
+|Professional JPG|Professional PNG|Casual JPEG|
+|--|--|--|
+|![Professional image of Poruri Sai Rahul](./Rahul_Poruri-HiRes.jpg "JPG Image")|![Professional image of Poruri Sai Rahul](./Rahul_Poruri-HiRes.png "PNG Image")|![Casual Image of Poruri Sai Rahul](./Rahul_Poruri-casual.jpeg "JPEG Image")|
